@@ -35,3 +35,11 @@ body {
     width: fit-content;
     height: fit-content;
 }
+footer{
+    width: 100%;
+    height: 10px;
+    background: rgb(7, 250, 250);
+}
+footer h2{
+    font-size: 18px;
+}
